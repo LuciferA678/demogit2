@@ -66,3 +66,5 @@ reverse_integer(orginal_number)
 
 orginal_number%10
 
+Ved/...!
+Bhanu
