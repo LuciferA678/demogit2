@@ -66,3 +66,10 @@ reverse_integer(orginal_number)
 
 orginal_number%10
 
+
+asjkfhjaskuiasdgd asfgdygasd ajsd
+aSHUDGAISUD 
+asdfklshdfhjgsdvjkn
+sdkfhjsdv'
+sdvjk
+
