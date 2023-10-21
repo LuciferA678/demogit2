@@ -1,0 +1,26 @@
+git download
+mkdir acp
+echo "# face2" >> README.md
+git init
+git config --list
+git config user.name "luciferA678"
+git config user.email "lucifer258s11@gmail.com
+git status
+git add - modify
+git status  - staging
+git commit -m "message
+
+
+git remote add oroigin
+git push -u origin master
+
+
+code error - previous persios
+git log
+git revert head - one step back
+git log --oneline
+git reset hard <commit id> # no logs
+
+
+git branch
+git checkout -b <ne>
